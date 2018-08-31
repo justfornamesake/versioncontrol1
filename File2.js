@@ -1,0 +1,1 @@
+var x2="This is new x2";
